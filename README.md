@@ -1,1 +1,1 @@
-# alx-interview Questions preparations.
+# alx-interview Questions and answer preparations.
